@@ -56,7 +56,7 @@ Traditional AI video generation relies on "probabilistic guessing," leading to f
 * **PAID LICENSE REQUIRED.** Any profit-oriented integration or corporate pre-research projects must be authorized by the founder.
 * **Core Infrastructure Royalties**: Commercial users are subject to logic royalties.
 * **任何营利行为及企业级预研均需付费授权。** ### 4. 法律溯源 (Traceability)
-All commercial outputs must retain the `Powered by SLA 1.0 (GZ-SuMing)` metadata tag.
+All commercial outputs must retain the `Powered by SLA 1.0` metadata tag.
 所有商业调用必须保留逻辑溯源标签。
 
 ---
