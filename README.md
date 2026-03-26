@@ -3,8 +3,8 @@
 > **Founder / 发起人:** GZ-SuMing
 > **Version / 版本:** v1.0-Alpha (Released 2026-03-26)
 > **Official Document:** [Full Specs on Google Docs](https://docs.google.com/document/d/1SxNE_LnSGiCuBZbWwB5O_VCX81t8gI1xrXYJskjAW_o/edit?usp=sharing)
-> **Official Document:** [Full Specs on Google Docs](https://docs.google.com/document/d/1SxNE_LnSGiCuBZbWwB5O_VCX81t8gI1xrXYJskjAW_o/edit?usp=sharing)
-补充内容(https://docs.google.com/document/d/1Tk3x-jeRw7fOIWVAL9F6nRF5wORcR8v7a2IsGsUfItU/edit?usp=sharing
+
+补充内容(https://docs.google.com/document/d/1Tk3x-jeRw7fOIWVAL9F6nRF5wORcR8v7ausp=sharing
 ---
 
 ## 💡 核心使命 | Mission
