@@ -5,7 +5,7 @@
 > **Official Document:** [Full Specs on Google Docs]内容(https://docs.google.com/document/d/1SxNE_LnSGiCuBZbWwB5O_VCX81t8gI1xrXYJskjAW_o/edit?usp=sharing)
 
 > **Official Document:** [Full Specs on Google Docs]内容
-补充内容(https://docs.google.com/document/d/1Tk3x-jeRw7fOIWVAL9F6nRF5wORcR8v7ausp=sharing
+Additional content补充内容(https://docs.google.com/document/d/1Tk3x-jeRw7fOIWVAL9F6nRF5wORcR8v7ausp=sharing
 ---
 
 ## 💡 核心使命 | Mission
