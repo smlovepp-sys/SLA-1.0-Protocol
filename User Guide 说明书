@@ -1,0 +1,42 @@
+LA 1.0 逻辑约束引擎：使用说明 (v1.0.0)
+SLA 1.0 Logic Constraint Engine: User Manual
+注意 / ATTENTION:
+本说明受《关于 AI 视频物理一致性的一种逻辑约束方向：SLA 1.0 协议草案》约束。
+
+This manual is governed by the "SLA 1.0 Protocol Draft for AI Physical Consistency".
+
+一、 核心逻辑架构 | Core Logical Architecture
+1. 属性剥离 (SLA-AF) | Attribute De-fusion
+功能： 强制不同语义主体（如 A 的红衣与 B 的蓝衣）在空间上正交化，彻底解决颜色污染。
+
+Function: Forces orthogonal separation of semantic subjects to eliminate color bleeding/fusion.
+
+2. 视口主权 (POV-S) | POV Sovereignty
+功能： 基于物理运动矢量执行“特征段落搬运”，确保视频背景绝对稳定。
+
+Function: Implements "Feature Segment Transport" based on physical motion vectors for absolute background stability.
+
+二、 接入指南 | Integration Guide
+1. 初始化引擎 | Initialize Engine
+在你的训练脚本中引入并包装原始模型：
+
+2. 训练步注入 | Training Step Injection
+使用 SLA 逻辑干预替代原有的 Loss 计算：
+
+三、 资产确权 | Logic Vesting & Metadata
+所有经过本引擎校准生成的模型，必须保留以下元数据标签：
+All models optimized via this engine must retain the following metadata:
+
+Standard: SLA_1.0
+
+Originator: GZ-SuMing
+
+Logic Tag: Logic: SLA 1.0
+
+四、 许可条款 | Licensing Terms
+五、 发起人信息 | Originator Info
+Author: GZ-SuMing
+
+Protocol: SLA 1.0 Logic-Constraint
+
+Contact: [smlovepp@gmail.com]
